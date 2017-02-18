@@ -14,7 +14,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r"
    sodipodi:docname="cheese.svg">
   <sodipodi:namedview
      id="base"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0585938"
-     inkscape:cx="128"
+     inkscape:cx="42.504746"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -131,45 +131,45 @@
        d="M 154.47438,968.80998 101.03985,1048.476 0.4857685,1048.9618 0,842.0244 l 33.032258,-2.42884 45.176471,83.55218 21.373814,35.4611 26.717267,13.11575 z"
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <circle
-       style="fill:#f16529;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
+       style="fill:#9b719a;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25882353"
        id="path4152"
        cx="128"
        cy="924.36218"
        r="128" />
     <g
        id="g4907"
-       style="fill:#682f17;fill-opacity:0.28"
+       style="fill:#6d4e6f;fill-opacity:1"
        clip-path="url(#clipPath4954)">
       <g
          id="g4909"
-         style="opacity:1;fill:#682f17;fill-opacity:0.28;stroke:none;stroke-width:9.70400047;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         style="opacity:1;fill:#6d4e6f;fill-opacity:1;stroke:none;stroke-width:9.70400047;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <path
            id="path4911"
            d="M128.0 989.36218C92.101491 989.36218 63.0 960.26069 63.0 924.36218L-573.396103068 1560.75828307C-573.396103068 1596.65679307 -544.294612068 1625.75828307 -508.396103068 1625.75828307Z"
-           style="fill:#682f17;fill-opacity:0.28" />
+           style="fill:#6d4e6f;fill-opacity:1" />
         <path
            id="path4914"
            d="M63.0 924.36218C63.0 906.412925113 70.2753726581 890.162925205 82.0380589021 878.400238973L-554.358044166 1514.79634204C-566.12073041 1526.55902827 -573.396103068 1542.80902818 -573.396103068 1560.75828307Z"
-           style="fill:#682f17;fill-opacity:0.28" />
+           style="fill:#6d4e6f;fill-opacity:1" />
         <path
            id="path4916"
            d="M82.0380589021 878.400238973C93.8007452947 866.637552592 110.050745387 859.36218 128.0 859.36218L-508.396103068 1495.75828307C-526.345357681 1495.75828307 -542.595357773 1503.03365566 -554.358044166 1514.79634204Z"
-           style="fill:#682f17;fill-opacity:0.28" />
+           style="fill:#6d4e6f;fill-opacity:1" />
         <path
            id="path4918"
            d="M128.0 859.36218C199.132773131 866.712067725 201.37296792 938.155870966 167.626421246 971.90241764L-468.769681822 1608.29852071C-435.023135148 1574.55197403 -437.263329936 1503.10817079 -508.396103068 1495.75828307Z"
-           style="fill:#682f17;fill-opacity:0.28" />
+           style="fill:#6d4e6f;fill-opacity:1" />
         <path
            id="path4920"
            d="M167.626421246 971.90241764C157.410968467 982.117870419 143.897907218 988.878973416 128.0 989.36218L-508.396103068 1625.75828307C-492.49819585 1625.27507648 -478.985134601 1618.51397349 -468.769681822 1608.29852071Z"
-           style="fill:#682f17;fill-opacity:0.28" />
+           style="fill:#6d4e6f;fill-opacity:1" />
       </g>
       <path
          sodipodi:nodetypes="cscc"
          inkscape:connector-curvature="0"
          id="circle4865"
          d="m 128,989.36218 c -35.898509,0 -65,-29.10149 -65,-65 0,-35.89851 29.101491,-65 65,-65 92.66545,9.57478 68.41633,127.92053 0,130 z"
-         style="opacity:1;fill:#682f17;fill-opacity:0.28;stroke:none;stroke-width:9.70400047;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#6d4e6f;fill-opacity:1;stroke:none;stroke-width:9.70400047;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        transform="translate(0,-2.2617187e-5)"
